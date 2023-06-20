@@ -122,7 +122,7 @@ h2 {
   grid-column: 1 / -1;
   place-self: center;
   display: grid;
-  transition: all 0.3s ease-in;
+  transition: all 0.1s ease-in;
 }
 
 .share-btn--clicked {
